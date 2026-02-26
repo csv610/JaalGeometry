@@ -24,6 +24,7 @@ Illustrative C++ examples are provided in the `Examples/` directory to demonstra
 - **`TriangleMesh_Ex.cpp`**: Generation of structured and fractal-like (Sierpinski) triangle meshes.
 - **`QuadMesh_Ex.cpp`**: Generation of structured quadrilateral meshes and common test shapes (Schneider's Pyramid).
 - **`TetMesh_Ex.cpp`**: Tetrahedral mesh generation from structured hexahedral inputs.
+- **`TetMeshFromPoints_Ex.cpp`**: 3D tetrahedral mesh generation from a custom set of points using Tetgen.
 - **`HexMesh_Ex.cpp`**: 3D structured hexahedral mesh generation and basic topological queries.
 - **`DelaunayMesh_Ex.cpp`**: 2D Delaunay triangulation from a custom set of points.
 - **`AlphaMSTQuadMesh_Ex.cpp`**: Local quadrilateral remeshing within a user-defined circular region.
