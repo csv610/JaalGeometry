@@ -26,6 +26,7 @@ Illustrative C++ examples are provided in the `Examples/` directory to demonstra
 - **`TetMesh_Ex.cpp`**: Tetrahedral mesh generation from structured hexahedral inputs.
 - **`HexMesh_Ex.cpp`**: 3D structured hexahedral mesh generation and basic topological queries.
 - **`AlphaMSTQuadMesh_Ex.cpp`**: Local quadrilateral remeshing within a user-defined circular region.
+- **`Tri2Quad_Ex.cpp`**: Conversion of a triangle mesh into a quadrilateral mesh using matching and subdivision.
 
 ## Getting Started
 
