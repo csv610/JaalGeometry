@@ -27,6 +27,7 @@ Illustrative C++ examples are provided in the `Examples/` directory to demonstra
 - **`HexMesh_Ex.cpp`**: 3D structured hexahedral mesh generation and basic topological queries.
 - **`AlphaMSTQuadMesh_Ex.cpp`**: Local quadrilateral remeshing within a user-defined circular region.
 - **`Tri2Quad_Ex.cpp`**: Conversion of a triangle mesh into a quadrilateral mesh using matching and subdivision.
+- **`QuadChord_Ex.cpp`**: Extracting topological "strips" (chords) from a quadrilateral mesh starting from a seed edge.
 
 ## Getting Started
 
