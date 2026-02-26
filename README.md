@@ -27,6 +27,7 @@ Illustrative C++ examples are provided in the `Examples/` directory to demonstra
 - **`TetMeshFromPoints_Ex.cpp`**: 3D tetrahedral mesh generation from a custom set of points using Tetgen.
 - **`HexMesh_Ex.cpp`**: 3D structured hexahedral mesh generation and basic topological queries.
 - **`DelaunayMesh_Ex.cpp`**: 2D Delaunay triangulation from a custom set of points.
+- **`Voronoi2D_Ex.cpp`**: Generation of a 2D Voronoi diagram as the dual of a Delaunay triangulation.
 - **`AlphaMSTQuadMesh_Ex.cpp`**: Local quadrilateral remeshing within a user-defined circular region.
 - **`Tri2Quad_Ex.cpp`**: Conversion of a triangle mesh into a quadrilateral mesh using matching and subdivision.
 - **`QuadChord_Ex.cpp`**: Extracting topological "strips" (chords) from a quadrilateral mesh starting from a seed edge.
