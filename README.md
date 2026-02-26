@@ -25,6 +25,7 @@ Illustrative C++ examples are provided in the `Examples/` directory to demonstra
 - **`QuadMesh_Ex.cpp`**: Generation of structured quadrilateral meshes and common test shapes (Schneider's Pyramid).
 - **`TetMesh_Ex.cpp`**: Tetrahedral mesh generation from structured hexahedral inputs.
 - **`HexMesh_Ex.cpp`**: 3D structured hexahedral mesh generation and basic topological queries.
+- **`AlphaMSTQuadMesh_Ex.cpp`**: Local quadrilateral remeshing within a user-defined circular region.
 
 ## Getting Started
 
