@@ -28,6 +28,7 @@ Illustrative C++ examples are provided in the `Examples/` directory to demonstra
 - **`AlphaMSTQuadMesh_Ex.cpp`**: Local quadrilateral remeshing within a user-defined circular region.
 - **`Tri2Quad_Ex.cpp`**: Conversion of a triangle mesh into a quadrilateral mesh using matching and subdivision.
 - **`QuadChord_Ex.cpp`**: Extracting topological "strips" (chords) from a quadrilateral mesh starting from a seed edge.
+- **`QuadRefine_Ex.cpp`**: Topological refinement of quadrilateral meshes (e.g., 1-to-4 splitting).
 
 ## Getting Started
 
