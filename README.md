@@ -16,6 +16,16 @@ JaalGeometry is a comprehensive C++ library suite for geometry processing and me
 - **Discrete Differential Geometry**: Implementations for geodesics, curvature flow, and harmonic maps.
 - **Mesh Optimization**: Untangling, smoothing, and quality-driven refinement.
 
+## Examples
+
+Illustrative C++ examples are provided in the `Examples/` directory to demonstrate the usage of each module:
+
+- **`CompGeom_Ex.cpp`**: Basic geometric queries (point-in-polygon, area calculation).
+- **`TriangleMesh_Ex.cpp`**: Generation of structured and fractal-like (Sierpinski) triangle meshes.
+- **`QuadMesh_Ex.cpp`**: Generation of structured quadrilateral meshes and common test shapes (Schneider's Pyramid).
+- **`TetMesh_Ex.cpp`**: Tetrahedral mesh generation from structured hexahedral inputs.
+- **`HexMesh_Ex.cpp`**: 3D structured hexahedral mesh generation and basic topological queries.
+
 ## Getting Started
 
 Refer to the `README.md` in the `JaalMesh` directory for technical details on building and using the library.
